@@ -1,4 +1,4 @@
-# spam_detector_app
+# spam message detection App
 
 ## Table of Content
   * [Demo](#demo)
@@ -11,6 +11,8 @@
   
   ## Demo
   Link: [https://spam-blocker.herokuapp.com/](https://spam-blocker.herokuapp.com/)
+  
+  [![](https://github.com/jaigane6387/spam_message_detector/blob/master/demo.png)](https://spam-blocker.herokuapp.com/)
 
 ## Overview
 This is a general web application which predicts whether a message is spam or not.
@@ -54,7 +56,7 @@ Next step would be to follow the instruction given on [Heroku Documentation](htt
 
 ![](https://forthebadge.com/images/badges/made-with-python.svg)
 
-[<img target="_blank" src="https://flask.palletsprojects.com/en/1.1.x/_images/flask-logo.png" width=170>](https://flask.palletsprojects.com/en/1.1.x/) [<img target="_blank" src="https://number1.co.za/wp-content/uploads/2017/10/gunicorn_logo-300x85.png" width=280>](https://gunicorn.org) [<img target="_blank" src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" width=200>](https://scikit-learn.org/stable/) [<img target="_blank" src="https://www.google.com/search?q=nltk&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiW-fiT_MLqAhXEcn0KHR5RBpcQ_AUoAnoECBUQBA&biw=1536&bih=754#imgrc=-srfnM0FxNwtjM" width=150>] (https://www.nltk.org/)
+[<img target="_blank" src="https://flask.palletsprojects.com/en/1.1.x/_images/flask-logo.png" width=170>](https://flask.palletsprojects.com/en/1.1.x/) [<img target="_blank" src="https://number1.co.za/wp-content/uploads/2017/10/gunicorn_logo-300x85.png" width=280>](https://gunicorn.org) [<img target="_blank" src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" width=200>](https://scikit-learn.org/stable/) [<img target="_blank" src="https://i2.wp.com/clay-atlas.com/wp-content/uploads/2019/08/python_nltk.png?w=316&ssl=1" width=150>] (https://www.nltk.org/)
 
 
 ## Bug / Feature Request
