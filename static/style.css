@@ -1,0 +1,44 @@
+body{
+	font:15px/1.5 Arial, Helvetica,sans-serif;
+	padding: 0px;
+	background-color:#f4f3f3;
+	background-image: url('anime.gif');
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: 100% 100%;
+}
+
+
+header{
+	height:70px;
+	width:100%;
+	padding-top:30px;
+	font-family: algerian;
+
+}
+.container{
+	width:100%;
+	margin: auto;
+	overflow: hidden;
+}
+
+header h2{
+	text-align:center;
+	color:white;
+
+}
+
+
+.btn-info {background-color: pink;
+	height:40px;
+	width:100px;} /* Blue */
+.btn-info:hover {background:#f57842 ;}
+
+
+.resultss{
+	border-radius: 15px 50px;
+    background: #345fe4;
+    padding: 20px; 
+    width: 200px;
+    height: 150px;
+}
